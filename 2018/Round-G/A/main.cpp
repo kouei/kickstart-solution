@@ -24,10 +24,12 @@ int main()
         auto n = static_cast<i64>(nums.size());
 
         i64 sum = 0;
+
+        // 处理非0的情况
         for(auto i = n - 1; i >= 0; --i)
         {
             if(nums[i] == 0) break;
-            
+
             for(auto j = i - 1; j >= 0; --j)
             {
                 auto val = nums[i] * nums[j];
@@ -38,6 +40,7 @@ int main()
             m[nums[i]] += 1;
         }
 
+        // 处理0的情况
         for(auto i = 0; i < n; ++i)
         {
             if(nums[i] != 0) break;
