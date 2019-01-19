@@ -1,3 +1,5 @@
+# [Combining Classes](https://code.google.com/codejam/contest/5374486/dashboard#s=p1)
+
 ## 题目描述  
 
 有N个连续的有序序列，对于第i个序列而言（1 <= i <= N），其范围是[Li, Ri) (由Li开始每次递增1直到Ri，题目原意为闭区间，但我们可以把终点手动+1凑成左闭右开区间，这样解题更方便)
