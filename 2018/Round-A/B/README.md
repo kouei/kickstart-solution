@@ -33,7 +33,7 @@
 ## 复杂度
 
 排序：O(NlogN)  
-后缀和预处理：O(N)
+后缀和：预处理O(N)，查询O(1)  
 二分搜索：O(logN)
 
 总复杂度：O(NlogN) + O(N) + K * O(logN) = O((N + K)logN)
