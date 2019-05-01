@@ -1,4 +1,4 @@
-# [Combining Classes](https://code.google.com/codejam/contest/5374486/dashboard#s=p1)
+# [Combining Classes](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051066/0000000000051007)
 
 ## 题目描述  
 

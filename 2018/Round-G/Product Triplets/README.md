@@ -1,4 +1,4 @@
-# [Product Triplets](https://code.google.com/codejam/contest/5374486/dashboard#s=p0)
+# [Product Triplets](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051066/0000000000051187)
 
 ## 题目描述  
 

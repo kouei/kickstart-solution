@@ -1,4 +1,4 @@
-# [Even Digits](https://code.google.com/codejam/contest/9234486/dashboard#s=p0)
+# [Even Digits](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edf/00000000000510ed)
 
 ## 题目描述  
 

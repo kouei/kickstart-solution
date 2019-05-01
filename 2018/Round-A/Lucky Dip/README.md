@@ -1,4 +1,4 @@
-# [Lucky Dip](https://code.google.com/codejam/contest/9234486/dashboard#s=p1)
+# [Lucky Dip](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edf/0000000000050e1d)
 
 ## 题目描述  
 
