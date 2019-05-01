@@ -1,14 +1,7 @@
-#include<iostream>
-#include<cstdio>
-#include<sstream>
-#include<vector>
-#include<string>
-#include<algorithm>
+#include<bits/stdc++.h>
 using namespace std;
 
-using i64 = int64_t;
-
-i64 N, K;
+int64_t N, K;
 vector<double> nums;
 vector<double> suffix_sum;
 double mean;
@@ -23,7 +16,7 @@ double get_mean()
 }
 
 // 求还剩k次重新抽取机会时，所能获得的物品价值的期望
-double solve(i64 k)
+double solve(int64_t k)
 {
     if(k == 0) return mean;
 

@@ -1,15 +1,7 @@
-#include<iostream>
-#include<sstream>
-#include<vector>
-#include<string>
-#include<algorithm>
+#include<bits/stdc++.h>
 using namespace std;
 
-using i64 = int64_t;
-
-
-
-i64 solve(string & num)
+int64_t solve(string & num)
 {
     auto n = static_cast<int>(num.size());
 
@@ -55,13 +47,13 @@ i64 solve(string & num)
         if(c[0] == '0') c = c.substr(1);
 
         // 解析字符串，求得数值解
-        i64 num_val;
+        int64_t num_val;
         stringstream(num) >> num_val;
 
-        i64 a_val;
+        int64_t a_val;
         stringstream(a) >> a_val;
 
-        i64 c_val;
+        int64_t c_val;
         stringstream(c) >> c_val;
 
         // 取+1，-1之中，距离原数较近的那种结果
